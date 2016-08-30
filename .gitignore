@@ -1,9 +1,5 @@
 package.me.Waffles.staffinv
 
-import org.bukkit.inventory.Inventory;
-import org.bukkit.inventory.ItemStack;
+public class StaffInv {
 
-public class Staffinv {
-   private Inventory inv;
-   private ItemStack s, b, d;
 }
