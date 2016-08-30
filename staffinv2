@@ -1,0 +1,21 @@
+package.me.waffles.staffinv;
+
+import org.bukkit.inventory.Inventory;
+import org.bukkit.inventory.ItemStack
+
+public class Menu {
+
+   private Inventory inv;
+   private ItemStack inv s, d, b
+   
+   public Menu() {
+       inv - Bukkit.getserver().createInventory(null, InventoryType.Chest, "Staff Menu");
+       
+   }
+   
+   private ItemStack createItem(DyeColor dc String name) {
+   
+   
+   }
+
+}
